@@ -1,0 +1,11 @@
+.client-content {
+    .nav {
+        .nav-link {
+            padding: 30px;
+            &.active {
+                background: $white !important;
+               
+            }
+        }
+    }
+}
